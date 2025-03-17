@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - jugador
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: fondo
+    uniqueID: 3207612619
+    locked: 0
+  - name: coleccionables
+    uniqueID: 508048123
+    locked: 0
+  - name: jugador
+    uniqueID: 1479154375
+    locked: 0
+  - name: enemigos
+    uniqueID: 3795916871
+    locked: 0
+  - name: balas
+    uniqueID: 2875869317
+    locked: 0
+  m_RenderingLayers:
+  - Default
